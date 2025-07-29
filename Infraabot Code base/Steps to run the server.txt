@@ -1,0 +1,16 @@
+On VS Code:
+Make sure to install the requirements present in the requirements text file.
+
+FRONTEND:
+In the terminal:
+cd frontend: change directory to frontend
+npm start
+
+BACKEND:
+In the terminal:
+cd backend: change directory to backend
+uvicorn main:app --reload
+
+Construct virtual environment .venv
+Download model from hugging face
+architext-gptj-162M
